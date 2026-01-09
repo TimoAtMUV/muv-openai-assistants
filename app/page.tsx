@@ -5,8 +5,8 @@ import styles from "./page.module.css";
 
 const Home = () => {
   const categories = {
-    "💬 Basis-Chat": "basic-chat-new",
-    "🏗️ Gebäudetechnik-Tutor": "basic-chat",
+    "💬 KI-Chat": "basic-chat-new",
+    //"🏗️ KI Assistent": "basic-chat",
     "🎨 Bildgenerierung": "image-creation",
     "🔍 Bild-Interpreter": "image-interpreter",
     "🔊 Sprachgenerierung": "voice-generation",
